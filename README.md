@@ -1,4 +1,4 @@
-[![Tshepo's GitHub Banner](https://www.dropbox.com/scl/fi/cycoc5hz55ppvgsg5xucv/Github-profile.png)](https://www.hyperiondev.com/portfolio/TN23070008879/)
+[![Tshepo's GitHub Banner](https://github.com/Nqapela98/Nqapela98/blob/main/Github%20profile.png)](https://www.hyperiondev.com/portfolio/TN23070008879/)
 
 ### Hi there 👋
 
