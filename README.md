@@ -1,3 +1,5 @@
+[![Tshepo's GitHub Banner](https://www.dropbox.com/scl/fi/cycoc5hz55ppvgsg5xucv/Github-profile.png?rlkey=1n2kc8j9dcrc0vrnhcg4ae9ja&dl=0)](https://www.hyperiondev.com/portfolio/TN23070008879/)
+
 ### Hi there 👋
 
 <!--
