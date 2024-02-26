@@ -22,10 +22,6 @@ I believe in the power of collaboration and welcome opportunities to work with l
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nqapela98&repo=Project_1-Task_Manager-)](https://github.com/Nqapela98/Project_1-Task_Manager-)
 
 ## Usage Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nqapela98&hide_progress=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nqapela98&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nqapela98&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-## Account Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nqapela98&show_icons=true)
 
