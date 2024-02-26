@@ -15,13 +15,17 @@ I'm particularly interested in data visualization, predictive analytics, and lev
 ## Collaboration and Feedback
 I believe in the power of collaboration and welcome opportunities to work with like-minded individuals and organizations. Whether you're interested in contributing to existing projects, exploring potential collaborations, or sharing feedback, I'm excited to connect and collaborate on meaningful data-driven initiatives.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nqapela98&hide_progress=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nqapela98&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nqapela98&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nqapela98&show_icons=true)
-
+## Pinned Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nqapela98&repo=Container-commodity-study-analysis)](https://github.com/Nqapela98/Container-commodity-study-analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nqapela98&repo=Working_with_data)](https://github.com/Nqapela98/Working_with_data)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nqapela98&repo=Machine_Learning)](https://github.com/Nqapela98/Machine_Learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nqapela98&repo=Project_1-Task_Manager-)](https://github.com/Nqapela98/Project_1-Task_Manager-)
+
+## Usage Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nqapela98&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nqapela98&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nqapela98&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+## Account Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nqapela98&show_icons=true)
+
