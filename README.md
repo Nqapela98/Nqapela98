@@ -16,6 +16,7 @@ I'm particularly interested in data visualization, predictive analytics, and lev
 I believe in the power of collaboration and welcome opportunities to work with like-minded individuals and organizations. Whether you're interested in contributing to existing projects, exploring potential collaborations, or sharing feedback, I'm excited to connect and collaborate on meaningful data-driven initiatives.
 
 ## Pinned Projects
+[![Readme Card](https://github.com/Nqapela98/Power-BI-Dashboards)](https://github.com/Nqapela98/Power-BI-Dashboards)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nqapela98&repo=Working_with_data)](https://github.com/Nqapela98/Working_with_data)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nqapela98&repo=Machine_Learning)](https://github.com/Nqapela98/Machine_Learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nqapela98&repo=Project_1-Task_Manager-)](https://github.com/Nqapela98/Project_1-Task_Manager-)
