@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=800&color=F7971E&center=true&vCenter=true&width=700&height=60&lines=Tshepo+Nqapela;Data+Scientist+%7C+AI+Engineer+%7C+Cloud+Specialist" alt="Typing SVG" />
+</p>
+
+<h1 align="center">
+  <span style="color:#F7971E;">Ｔｓｈｅｐｏ</span> <span style="color:#2EC4B6;">Ｎｑａｐｅｌａ</span>
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Tshepo%20Nqapela-F7971E?style=for-the-badge&logo=github&logoColor=white&labelColor=2EC4B6" alt="Tshepo Nqapela badge" />
+</p>
+
 ![Tshepo's GitHub Banner](https://github.com/Nqapela98/Nqapela98/blob/main/New%20Project.png)
 
 <p align="center">
@@ -14,23 +26,22 @@
 
 ---
 
-## Hi there 👋
+## 👋 Hello, World! 
 
-I'm **Tshepo Nqapela**, a Data Scientist passionate about AI, Machine Learning, and Data Analytics. With three years of experience in the data space, I specialize in building intelligent systems that turn raw data into actionable insights.
-
----
-
-## 🚀 What I Do
-
-- ✨ Develop and deploy AI-driven recommendation systems and predictive models
-- ☁️ Work extensively with Google Cloud Platform (BigQuery, Spanner, Looker, Google Buckets)
-- 🔄 Optimize data pipelines, automate workflows, and enhance decision-making processes
-- 📊 Build interactive dashboards with Power BI to drive business insights
-- 💬 Mentor and share knowledge through community contributions and blog posts
+I'm **Tshepo Nqapela**, a driven Data Scientist and AI Engineer passionate about leveraging technology to solve real-world problems. With 3+ years of hands-on experience, I design and deploy intelligent, scalable solutions that transform raw data into actionable business insights.
 
 ---
 
-## 💡 Tech Stack
+## 🚀 What Drives Me
+
+- 🤖 Develop and productionalize AI-powered recommendation engines, predictive analytics, and NLP solutions
+- ☁️ Cloud-native development on **Google Cloud Platform** (BigQuery, Spanner, Looker, Cloud Storage) for scalable, secure, and automated data solutions
+- 🔄 Architect and optimize robust data pipelines (ETL/ELT), automate workflows, and drive data-driven decision making
+- 📊 Craft dynamic, interactive dashboards and reports in **Power BI** and **Looker** for executive-level storytelling
+
+---
+
+## 💻 Tech Toolbox
 
 <div align="center">
 
@@ -42,12 +53,18 @@ I'm **Tshepo Nqapela**, a Data Scientist passionate about AI, Machine Learning, 
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-4A154B?style=flat-square&logo=spaCy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Nqapela98&show_icons=true&theme=radical&count_private=true" />
@@ -56,25 +73,26 @@ I'm **Tshepo Nqapela**, a Data Scientist passionate about AI, Machine Learning, 
 
 ---
 
-## 🌟 Featured Badges
+## 🏆 Achievements & Badges
 
-<p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nqapela98&theme=radical&margin-w=8&margin-h=8&column=7" alt="Profile Trophies" />
 </p>
 
 ---
 
-## 🤝 Let’s Collaborate!
+## 🤝 Let’s Connect & Collaborate
 
-I’m always open to exploring new ideas, optimizing workflows, and pushing the boundaries of data science.  
-Feel free to connect, collaborate, or share feedback!
+Are you working on something impactful or looking to brainstorm data-driven solutions?  
+I'm open to freelance projects, collaboration, mentorship, or just a chat about tech, AI, and life.
 
 - 📝 **Blog**: [Medium](https://medium.com/@nqapelatshepo) *(Coming Soon!)*
-- 🗣️ **Let's Chat**: nqapelatshepo.com@gmail.com
+- 🗣️ **Email**: nqapelatshepo.com@gmail.com
+- 👔 **LinkedIn**: [Connect with me!](https://www.linkedin.com/in/tshepman/)
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Featured Projects
 
 [![Sentiment Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Nqapela98&repo=Sentiment_prediction&theme=radical)](https://github.com/Nqapela98/Sentiment_prediction)
 [![Chat Bot](https://github-readme-stats.vercel.app/api/pin/?username=Nqapela98&repo=chat_bot&theme=radical)](https://github.com/Nqapela98/chat_bot)
